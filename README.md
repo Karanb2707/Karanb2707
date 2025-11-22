@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan&layout=compact" width="300" />
 
-## 🚀 Full Stack Developer | Backend Specialist | Blockchain & Web3 Enthusiast
+## 🚀 Frontend Developer | React & UI Engineer | Web Performance Optimizer
 
 ### 👨‍💻 About Me
 - 💼 Currently working as Backend Developer at **Fyntune Solutions**
@@ -14,15 +14,15 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** `PHP` `JavaScript` `TypeScript` `C++` `Python`
+**Frontend:** `React` `Next.js` `JavaScript` `TypeScript` `Redux Toolkit` `Zustand` `TailwindCSS` `SCSS` `Material UI` `ShadCN UI` `Framer Motion`
 
-**Frameworks & Libraries:** `Laravel` `React` `Node.js` `TailwindCSS` `Next.js`
+**UI/UX & Tools:** `Figma` `Responsive Design` `Accessibility (A11y)` `Animations` `SEO` `PWAs` `Web Performance`
 
-**Databases & Tools:** `MySQL` `MongoDB` `PostgreSQL` `Redis`
+**Build & Deploy:** `Vite` `Webpack` `Bun` `NPM` `CI/CD` `Vercel` `Netlify`
 
-**DevOps & Cloud:** `Docker` `Linux` `CI/CD` `Nginx` `Vercel`
+**Testing:** `Jest` `React Testing Library`
 
-**Other Skills:** `REST APIs` `GraphQL` `JWT Auth` `Microservices` `SAML`
+**Other Skills:** `REST APIs` `GraphQL` `Firebase` `Stripe`
 
 ---
 
