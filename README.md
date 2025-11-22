@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Karan Bolake — Frontend Developer
+# ⚡ Karan Bolake — Frontend Developer
 
 ### ✨ Blending design and engineering for sleek UI and solid app architecture. ✨
 
