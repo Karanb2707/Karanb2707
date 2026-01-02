@@ -83,9 +83,9 @@ Working as a React frontend developer building responsive, scalable UI modules u
 
 ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karanb2707&commits_year=2026&show_icons=true&theme=radical)
 
-![Karan's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Karanb2707&theme=radical)
+![Karan's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Karanb2707&commits_year=2026&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karanb2707&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karanb2707&commits_year=2026&layout=compact&theme=radical)
 
 </div>
 
